@@ -11,5 +11,5 @@ module.exports = {
   },
   extends: ["@nuxtjs/eslint-config-typescript", "plugin:prettier/recommended"],
   plugins: [],
-  rules: {},
+  rules: { "prettier/prettier": ["error", { endOfLine: "auto" }] },
 };
