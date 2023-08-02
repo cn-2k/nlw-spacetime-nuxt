@@ -11,7 +11,7 @@
 
 <div align="center">
 
-# `NLW Spacetime - 12° edição`
+# `NLW Spacetime - 12° edição (Nuxt)`
 </div>
 
 ## Sobre o Projeto
